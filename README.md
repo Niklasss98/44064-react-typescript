@@ -4,7 +4,9 @@ Entrega del Trabajo Práctico N7 de Desarrollo de Software
 
 Alumno: Lucca, Nicolás Ignacio / Legajo: 44064 / Curso: 3K09
 
-Aplicación React con varias dependencias para utilizar, entre otros elementos, una tabla de productos que permita tanto como verificar, editar y borrar los productos.
+Aplicación React para utilizar, entre otros elementos, una tabla de productos que permita tanto como verificar, editar y borrar los productos.
+
+Aquí se muestran algunas de las dependencias utilizadas:
 
 # React + TypeScript + Vite
 
