@@ -1,3 +1,11 @@
+# Practico-7-React
+
+Entrega del Trabajo Práctico N7 de Desarrollo de Software
+
+Alumno: Lucca, Nicolás Ignacio / Legajo: 44064 / Curso: 3K09
+
+Aplicación React utilizando varias dependencias para utlizar, entre otros elementos, una tabla de productos que permitar tanto como verificar, editar y borrar los productos
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
