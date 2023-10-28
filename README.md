@@ -6,6 +6,8 @@ Alumno: Lucca, Nicolás Ignacio / Legajo: 44064 / Curso: 3K09
 
 Aplicación React para utilizar, entre otros elementos, una tabla de productos que permita tanto como verificar, editar y borrar los productos.
 
+Nota: No pude linkear las imágenes de la carpeta 'src/assets/images' con el carrousel, así que terminé usando la ruta de la página web.
+
 Link de Vercel con la App andando: https://practico-7-react.vercel.app/
 
 Aquí se muestran algunas de las dependencias utilizadas:
